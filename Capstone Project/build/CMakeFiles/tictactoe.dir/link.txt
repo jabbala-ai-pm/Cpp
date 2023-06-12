@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++1y -w  -rdynamic CMakeFiles/tictactoe.dir/src/field.cpp.o CMakeFiles/tictactoe.dir/src/main.cpp.o CMakeFiles/tictactoe.dir/src/sprite.cpp.o CMakeFiles/tictactoe.dir/src/window.cpp.o  -o tictactoe -lSDL2 -lSDL2_image -lSDL2 -lSDL2_ttf -lSDL2 -lSDL2_image -lSDL2_ttf 
